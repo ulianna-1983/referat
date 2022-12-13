@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- The XHTML header is needed here. Otherwise the panning of our images doesn't work -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+   <title>Map Content</title>
+   <link href="Res/styles/shared.css" rel="stylesheet" type="text/css" />
+</head>
+<body class="overviewMapBody">
+<!--START PAGE TOOLS UTILITIES MAP CONTENT IMAGEMAP-->
+
+<div class="overviewDiv">
+
+<table height="100%" align="center" halign="center">
+<tr>
+<td>
+
+<!-- DETAILED IMAGE MAP -->
+  <img id="mapDetailed" 
+       src="mapContentImagemap_Details.jpg" 
+       usemap="#Details_Imagemap" 
+       style="display:show">
+
+<map name="Details_Imagemap">
+<area shape="rect" coords="262, 7, 428, 40" href="../конституционное право на образование в РБ/Введение. Всемирная паутина/" target="_parent" alt="..\конституционное право на образование в РБ\Введение. Всемирная паутина\">
+<area shape="rect" coords="328, 112, 650, 160" href="index.html#Topic2" target="_parent" alt="Организация поиска информации в сети Интернет">
+<area shape="rect" coords="667, 61, 949, 131" href="../конституционное право на образование в РБ/Глава 1.1/" target="_parent" alt="..\конституционное право на образование в РБ\Глава 1.1\">
+<area shape="rect" coords="667, 141, 951, 210" href="../конституционное право на образование в РБ/Глава1.2/" target="_parent" alt="..\конституционное право на образование в РБ\Глава1.2\">
+<area shape="rect" coords="328, 232, 667, 280" href="../конституционное право на образование в РБ/Глава 2/" target="_parent" alt="..\конституционное право на образование в РБ\Глава 2\">
+<area shape="rect" coords="262, 302, 443, 335" href="../конституционное право на образование в РБ/Заключение/" target="_parent" alt="..\конституционное право на образование в РБ\Заключение\">
+<area shape="rect" coords="262, 356, 548, 389" href="../конституционное право на образование в РБ/Список интернет-источников/" target="_parent" alt="..\конституционное право на образование в РБ\Список интернет-источников\">
+</map>
+
+</td>
+</tr>
+</table>
+
+</div>
+<!--END PAGE TOOLS UTILITIES MAP CONTENT IMAGEMAP-->
+
+</body>
+</html>
